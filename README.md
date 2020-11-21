@@ -10,6 +10,12 @@ This project is part of Udacity's Full-stack Web Development nano degree program
 4) Search for questions based on a text query string.
 5) Play the quiz game, randomizing either all questions or within a specific category. 
 
+## Helping Links
+- Starter code taken from udacity [repository](https://github.com/udacity/FSND/tree/master/projects/01_fyyur/starter_code).
+- First of All the main helping resource was from the Udacity API course itself and by applying what we have learned.
+- I am Getting help from a Previous Project but not a palagrism and many more links and websites, and I learned a lot through this project:
+- [Previous Project](https://github.com/mind1990/fyyur)
+
 ## Runninng this project
 
 To run this project you will need:
