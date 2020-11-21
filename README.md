@@ -8,7 +8,7 @@ This project is part of Udacity's Full-stack Web Development nano degree program
 2) Delete questions.
 3) Add questions and require that they include question and answer text.
 4) Search for questions based on a text query string.
-5) Play the quiz game, randomizing either all questions or within a specific category. 
+5) Play the quiz game, randomizing either all questions or within a specific category.
 
 ## Runninng this project
 
